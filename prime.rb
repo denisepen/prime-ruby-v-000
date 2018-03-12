@@ -7,7 +7,7 @@
 #    end
 #   end
 
-def is_prime(n)
+def prime?(n)
   if (n < 2)
     return false
   end
